@@ -1,0 +1,5 @@
+spring.profiles.active: default
+spring.profiles.group.default:
+  - big
+  - blue
+demo.hello: Demo

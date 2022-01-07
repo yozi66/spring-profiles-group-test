@@ -1,0 +1,5 @@
+# spring.profiles.active: it
+spring.profiles.group.it:
+  - big
+  - red
+demo.hello: Local

@@ -1,0 +1,4 @@
+spring.profiles.group.it:
+  - small
+  - red
+demo.hello: IT
